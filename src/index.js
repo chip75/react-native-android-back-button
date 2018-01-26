@@ -1,3 +1,5 @@
+import React, { Component } from "react"
+import PropTypes from 'prop-types'
 import { AppState, BackHandler, Platform } from "react-native"
 import withSideEffect from "react-side-effect"
 
